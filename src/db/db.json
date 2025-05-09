@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bespoke Plastic Shoes",
+    "price": "162.50",
+    "category": "Tools"
+  },
+  {
+    "name": "Elegant Metal Fish",
+    "price": "190.85",
+    "category": "Health"
+  },
+  {
+    "name": "Awesome Silk Bacon",
+    "price": "320.29",
+    "category": "Sports"
+  },
+  {
+    "name": "Awesome Aluminum Shoes",
+    "price": "593.15",
+    "category": "Clothing"
+  },
+  {
+    "name": "Luxurious Rubber Car",
+    "price": "606.10",
+    "category": "Shoes"
+  },
+  {
+    "name": "Recycled Aluminum Towels",
+    "price": "49.29",
+    "category": "Baby"
+  }
+]
